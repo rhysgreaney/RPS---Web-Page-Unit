@@ -19,3 +19,8 @@ body{
 .circle:hover {
     background-color: grey;
 }
+
+.instruction {
+    text-align: center;
+    font-size: 60%;
+}
