@@ -7,3 +7,10 @@ body{
     font-family: Arial, Helvitica, sans-serif;
     text-align: center;
 }
+
+.circle {
+    background: green;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
