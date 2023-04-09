@@ -23,3 +23,6 @@ function play(user) {
     alert(theMessage);
     say(theMessage);
 }
+
+/* When going through my coding I noticed the only issue I had
+was indenting, that is why my program wasn't running, working product */
