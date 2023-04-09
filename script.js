@@ -3,7 +3,7 @@
  function say(myMessage){
     var msg = new SpeechSynthesisUtterance(myMessage);
     window.speechSynthesis.speak(msg);
- }
+  }
 
  /* This is a simplified version of the game.
 The Computer ALWAYS picks ROCK.  
