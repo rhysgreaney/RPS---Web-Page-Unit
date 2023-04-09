@@ -1,8 +1,8 @@
  /* I found this coding through https://dev.to/asaoluelijah/text-to-speech-in-3-lines-of-javascript-b8h */
 
  function say(myMessage){
- var msg = new SpeechSynthesisUtterance(myMessage);
- window.speechSynthesis.speak(msg);
+    var msg = new SpeechSynthesisUtterance(myMessage);
+    window.speechSynthesis.speak(msg);
  }
 
  /* This is a simplified version of the game.
